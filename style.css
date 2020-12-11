@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 80px;
+    margin: 8px auto;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+img {
+    transition: transfrom 0.2s;
+}
+
+#Apps {
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+}
+
+#Games {
+    width: 100%;
+    height: 800px;
+    background-color: blue;
+
+}
+
+#Chat_Bot {
+    width: 100%;
+    height: 800px;
+    background-color: darkturquoise;
+
+}
+
